@@ -1,2 +1,8 @@
+.head {
+	display: flex;
+	justify-content: space-between
+}
 
-/* Your CSS Code here. */
+.name {
+	text-align: center
+}
